@@ -1,0 +1,40 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+a:active{
+  background-color: #42f542;
+  color: #42e0f5;
+}
+
+a:hover{
+  background-color: #f542ec;
+  color:#42e9f5;
+}
+
+body {
+  background-color: #c9a7d6;
+  font-family: "Fantasy", "Monospace"
+}
+
+
+h1, li, body{
+  text-align: center;
+}
+
+
+.parent{
+  display: flex;
+  gap: 5px;
+}
+
+
+p{
+
+  font-size:22px;
+  color: #ad03fc;
+  background-color: lightpurple;
+
+}
+
+
